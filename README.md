@@ -20,3 +20,6 @@ In 2Pack, change all `<EntityType>*</EntityType>` to `<EntityType>U</EntityType>
 
 ## TODO
 
+Some error while import 2Pack bundle, to be checked.
+
+ODT2Pack_1.0.0_Import Format.zip cant be imported correctly. Please refer to https://idempiere.atlassian.net/browse/IDEMPIERE-4170
